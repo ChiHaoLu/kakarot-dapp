@@ -19,7 +19,7 @@ declare global {
 
 const Home = () => {
   const [contractAddress, setContractAddress] = useState(
-    "0x99682dAc0D03F0D12392dCE0B0E34f4AaD0b56E1",
+    "0xeE2D7486bcE9821DaBB7878840E1ab2cBaaB4379"
   );
   const [message, setMessage] = useState("meow");
   const [loading, setLoading] = useState(false);
